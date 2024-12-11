@@ -2,13 +2,19 @@
 
 - type: github
   icon: "fab fa-github"
+  url: https://github.com/yultang
 
 - type: stack-overflow
   icon: 'fab fa-stack-overflow'
+  url: https://stackoverflow.com/users/25081673/yulongtang077
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 
 # - type: email
 #  icon: "fas fa-envelope"
