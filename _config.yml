@@ -29,7 +29,7 @@ github:
   username: yultang # change to your GitHub username
 
 twitter:
-  username: ylt077 # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,9 +38,9 @@ social:
   email: yulongtang077@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ylt077 # change to your Twitter homepage
-    - https://github.com/yultang # change to your GitHub homepage
-    - https://stackoverflow.com/users/25081673/yulongtang077'
+    # - https://twitter.com/ylt077 # change to your Twitter homepage
+    - https://github.com/yultang
+    - https://stackoverflow.com/users/25081673/yulongtang077
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
